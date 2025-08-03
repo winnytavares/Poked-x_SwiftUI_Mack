@@ -7,5 +7,3 @@ Curso: Foundation IOS Mackenzie.
 
 ![nao carregado](https://pm1.aminoapps.com/6580/7ab2413436b62f4db6edb374a6aa36e1f8e6d666_hq.jpg)
 
-Apresentacao do projeto
-![Apresentacao do projeto](https://shorturl.at/bb0zw)
